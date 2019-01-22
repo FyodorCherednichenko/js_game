@@ -1,0 +1,13 @@
+Sutener pili = 20
+row = 10
+FYODOR = 40
+ren = 20
+qwe = 10
+KYLO = 10
+123 = 20
+avsolov = 100
+
+<script>alert('Gotcha!');</script> = <script>window.location='http://ya.ru';</script>
+113 = 10
+player1 = 10
+trololo = 10
